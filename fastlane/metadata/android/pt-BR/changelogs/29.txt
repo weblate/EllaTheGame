@@ -1,0 +1,3 @@
+- Atualização de Dependências (Unity, Yodo1, Google Play Games, In-App-Purchases) ⚙️
+- Remover o Descontinuado EasyMobile Pro e Usar Código Nativo para o Google Play Jogos 🥀
+- Correções de Bugs 🐛
