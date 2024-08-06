@@ -1,0 +1,3 @@
+- Amélioration des dépendances (Unity, Yodo1, Google Play Jeux, les achats intégrés) ⚙️
+- Supprimer EasyMobile Pro et utilise le code machine pour Google Play Jeux 🥀
+- Corrections de bugs  🐛
