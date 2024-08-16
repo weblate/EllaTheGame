@@ -1,0 +1,3 @@
+- Aktualizace závislostí (Unity, Yodo1, Google Play Games, In-App-Purchases) ⚙️
+- Odstranění ukončeného EasyMobile Pro a použití nativního kódu pro hry Google Play 🥀
+- Opravy chyb 🐛
