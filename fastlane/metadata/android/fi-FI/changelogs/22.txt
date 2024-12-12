@@ -1,0 +1,3 @@
+- Parannettu tulostaulukko
+- Siivottu koodikanta
+- korjattu käännökset
