@@ -1,0 +1,3 @@
+- Päivitetty riippuvuudet (Unity, Yodo1, Google Play Pelit, sovelluksen sisäiset ostot) ⚙️
+- Poistettu lopetettu EasyMobile Pro ja käyttää natiivikoodia Google Play -peleissä 🥀
+- Viankorjauksia 🐛
